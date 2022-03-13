@@ -1,10 +1,21 @@
-## Olá! Eu sou o André Hammel
+<h4>Bem-vindo ao meu Github! Me chamo André, sou de São Paulo, engenheiro em transição de carreira e em busca de uma nova oportunidade de trabalho</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 
+
+<div style="display: flex">
+  <div>
+    <ul>
+      <li>🔭 I’m currently working on ...</li>
+      <li>🌱 I’m currently learning ...</li>
+      <li>👯 I’m looking to collaborate on ...</li>
+      <li>🤔 I’m looking for help with ...</li>
+      <li>👨‍💻 Estou estudando agora:</li>
+    </ul>
+  </div>
+  <div>
+    <img alt="GIF" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47pmu8cdg5lqd3m78fuoqpmg0819nuo3hk8qar25iz&rid=giphy.gif&ct=g" width="400px" />
+  </div>
+</div>
 
 <div>
   <a href="https://https://github.com/AndreHammel">
