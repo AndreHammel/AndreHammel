@@ -34,25 +34,22 @@
   </ul>
 </div>
 
-<br /><br /><br /><br />
-
+<br />
+<hr/>
 
 <div>
   <a href="https://https://github.com/AndreHammel">
   <img
-    style="display: inline-block" align="left"
     height="180px"
     src="https://github-readme-stats.vercel.app/api?username=AndreHammel&show_icons=true&theme=merko&include_all_commits=true&count_private=true&border_color=68b587&border_radius=20" 
   />
   <img
-    style="display: inline-block" align="right"
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreHammel&langs_count=8&theme=merko&layout=compact&border_color=68b587&border_radius=20" 
     />
 </div>
   
-<br /><br /><br /><br />
-<br /><br /><br /><br />
+<br/>
 
 <div style="display: inline-block" align="left"><br>
   <img align="center" alt="js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -63,7 +60,7 @@
   <img align="center" alt="python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
----
+<hr/>
 
 <div>
   <a href="mailto: hammel.engineer@gmail.com" target="_blank">
@@ -75,7 +72,7 @@
 </div>
 
   
-<p>Paz à 🇺🇦</p>
+<p>-- Paz à 🇺🇦 --</p>
   
 [comment]:<> (https://github.com/anuraghazra/github-readme-stats)
 [comment]:<> (https://devicon.dev)
