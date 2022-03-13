@@ -5,7 +5,7 @@
    align="right"
    alt="GIF" 
    src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47pmu8cdg5lqd3m78fuoqpmg0819nuo3hk8qar25iz&rid=giphy.gif&ct=g" 
-   width="400px" 
+   width="350px" 
 />
 
 <h4>Sobre mim:</h4>
@@ -71,6 +71,7 @@
   </a>
 </div>
 
+<br/>
   
 <p>-- Paz à 🇺🇦 --</p>
   
